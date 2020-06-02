@@ -1,3 +1,5 @@
+/******By CS50******/
+
 #include <getopt.h>
 #include <stdio.h>
 #include <stdlib.h>
